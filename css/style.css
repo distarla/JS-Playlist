@@ -1,0 +1,27 @@
+body { 
+    background: url(../images/background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .ativo {
+    background-color: indianred
+  }
+
+  .full {
+    width: 100%;
+  }
+
+  .delete{
+    cursor: pointer;
+  }
+
+  .plElement{
+    cursor: pointer;
+  }
+
+  .filtered {
+    display: none !important;
+  }
